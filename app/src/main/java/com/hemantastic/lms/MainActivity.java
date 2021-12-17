@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     protected void prt(){
-        System.out.println("commit test");
+        System.out.println("LMS");
     }
 }
